@@ -21,7 +21,7 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx", "src/pages/Components/listItems.js"
   ],
   "exclude": [
     "node_modules"

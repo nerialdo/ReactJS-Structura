@@ -8,10 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "next": "9.5.2",
     "next-images": "^1.4.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "recharts": "^1.8.5",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
